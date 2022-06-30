@@ -47,6 +47,9 @@ body{
     margin-right: 10px;
 }
 
+.card:hover{
+    transform: scale(1.2);
+}
 
 /*Login*/
 .Bienvenida {
@@ -159,7 +162,12 @@ body{
     margin-bottom: 20px;
 }
 
-
+.productosRelacionados{
+    font-size: 25px;
+    color: rgba(71, 112, 134, 1);
+    margin: 5px 0px;
+    margin-left: 5px;
+}
 
 /*FOOTER*/
 .footer{
