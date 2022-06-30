@@ -109,46 +109,41 @@ body{
 /*SECCION MANGA*/
 
 .mangaImg{
-    width: 50%;
-    margin: 50px 30px;
+    width: auto;
+    margin: 50px    0px;
 }
 
 
 .Titulo{
     color:rgba(255, 158, 15, 1);
-    font-weight: 600;
-    margin-left: 5px;
+    font-size: 30px;
+    margin-left: 10px;
     margin-bottom: 10px;
 }
 
 .Editorial {
-    font-size: 17px;
+    font-size: 27px;
     color: rgba(33, 166, 131, 1);
-    margin-left: 5px;
 }
 
 .Stock {
     font-size: 27px;
     color: rgba(70, 108, 245, 1);
-    margin-left: 5px;
 }
 
 .Precio {
     font-size: 27px;
     color: rgba(71, 112, 134, 1);
-    margin-left: 5px;
 }
 
 .tituloDescripcion {
     font-size: 25px;
     color: rgba(71, 112, 134, 1);
-    margin-left: 5px;
 }
 
 .Descripcion {
     color: rgba(197, 157, 129, 1);
     margin-bottom: 20px;
-    margin-left: 5px;
 }
 
 .tituloDetallesProducto {
